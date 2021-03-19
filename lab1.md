@@ -7,10 +7,11 @@
 4. ได้ทดลองเขียนโปรแกรมภาษา C ในการควบคุมการทำงานของวงจรในเบื้องต้น
 
 ## อุปกรณ์ที่ใช้
-1.อุปกรณต่อ USB
-2.ESP-01 (microcontrolor)
-3.USB2Serial converter
+1. อุปกรณต่อ USB
+2. ESP-01 (microcontrolor)
+3. USB2Serial converter
 
 ## ศึกษาข้อมูลเบื้อต้น
 * https://platformio.org/
+* การเริ่มเขียนโปรแกรมภาษา C https://benzneststudios.com/blog/c-programming/c-programming-basic-1/
 
