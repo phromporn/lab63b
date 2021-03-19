@@ -12,6 +12,16 @@
 3. USB2Serial converter
 
 ## ศึกษาข้อมูลเบื้อต้น
-* https://platformio.org/
+* การใช้งาน platformio https://platformio.org/
 * การเริ่มเขียนโปรแกรมภาษา C https://benzneststudios.com/blog/c-programming/c-programming-basic-1/
+* เรียนรู้ ESP-01   https://docs.platformio.org/en/latest/boards/espressif8266/esp01_1m.html
+* การต่อวงจร Microcontroller และการเขียนโปรแกรมควบคุมเบื้องต้น https://learninginventions.org/?page_id=2198
 
+## วิธีการทำการทดลอง
+
+
+## การบันทึกผลการทดลอง
+
+## อภิปรายผลการทดลอง
+
+## คำถามหลังการทดลอง
