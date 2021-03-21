@@ -19,9 +19,12 @@
 
 ## วิธีการทำการทดลอง
  * การเขียนโปรแกรมเพื่อรันบนไมโครคอนโทรเลอร์ ต่อmicrocontrollor กับ USB เชื่อมเข้ากับคอมพิวเตอร์เพิ่เขียนโปรแกรมรันบน ESP-01 
-![S__2433184](https://user-images.githubusercontent.com/80879653/111916595-4286b880-8aae-11eb-9d58-375edd55d601.jpg)
+ ![microcontrollor ](https://user-images.githubusercontent.com/80879653/111916742-06078c80-8aaf-11eb-9f64-52493c9adb5d.jpg)
+![S__2433184](https://user-images.githubusercontent.com/80879653/111916643-74981a80-8aae-11eb-9cc3-c3861b5cc43a.jpg)
 
  * ทำการเปิดโพเดอร์เพื่อที่จะรันโปรแกรมภาษาซีภายใน
+ * 
+
  * เขียนโค้ดภาษา C โดยโค้ดจะมี2ลูป
  * pio run เพื่ออัปโหลดโปรแกรมลงใน ESP-01 
  * เมื่อสำเร็จ ทำการ pio divice monitor เพื่อแสดงผล
