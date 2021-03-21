@@ -30,6 +30,7 @@
  ![S__2433180](https://user-images.githubusercontent.com/80879653/111916856-8928e280-8aaf-11eb-96c8-60e0fb7c6ff6.jpg)
 
  * เมื่อสำเร็จ ทำการ pio divice monitor เพื่อแสดงผล
+![1](https://user-images.githubusercontent.com/80879653/111916941-ecb31000-8aaf-11eb-8332-e37ab026b35c.png)
 
 ## การบันทึกผลการทดลอง
 ค่าที่รันออกมาจาก ESP-01 จะเป็นค่าcount ที่นับไปเรื่อยๆโดยมีระยะห่างที่1 วินาที เมื่อกดปุ่มรีเซ็ตก็จะมีการเริ่มนับ 1ใหม่
