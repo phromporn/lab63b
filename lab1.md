@@ -23,10 +23,12 @@
 ![S__2433184](https://user-images.githubusercontent.com/80879653/111916643-74981a80-8aae-11eb-9cc3-c3861b5cc43a.jpg)
 
  * ทำการเปิดโพเดอร์เพื่อที่จะรันโปรแกรมภาษาซีภายใน
- * 
 
  * เขียนโค้ดภาษา C โดยโค้ดจะมี2ลูป
+  ![S__2433182](https://user-images.githubusercontent.com/80879653/111916809-54b52680-8aaf-11eb-9c8a-01fec6e87ef5.jpg)
  * pio run เพื่ออัปโหลดโปรแกรมลงใน ESP-01 
+ ![S__2433180](https://user-images.githubusercontent.com/80879653/111916856-8928e280-8aaf-11eb-96c8-60e0fb7c6ff6.jpg)
+
  * เมื่อสำเร็จ ทำการ pio divice monitor เพื่อแสดงผล
 
 ## การบันทึกผลการทดลอง
