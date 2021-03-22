@@ -8,6 +8,8 @@
 2. ESP-01 (microcontrolor)
 3. USB2Serial converter
 4. adaptor ที่มี 2 port 
+5. relay 
+6. ไฟเลี้ยง
 ## ศึกษาข้อมูลเบื้อต้น
 * การใช้งาน platformio https://platformio.org/
 * การเริ่มเขียนโปรแกรมภาษา C https://benzneststudios.com/blog/c-programming/c-programming-basic-1/
@@ -28,6 +30,14 @@
 ![pio run device](https://user-images.githubusercontent.com/80879653/111969311-abad1100-8b2c-11eb-8931-81ffde63618e.png)
 5.pio divice mornitor เพื่อแสดงผล
 ![จะเปล่งแสงตอนon](https://user-images.githubusercontent.com/80879653/111969575-fb8bd800-8b2c-11eb-821c-3e3d105d88c1.png)
+### run relay
+1. นำ microcontrollor ที่ถูกเขียนโปรแกรมไว้แล้วมาต่อกับ relay เพื่อให้port 0 ส่งสัญญาณควบคุม relay เพื่อให้เปิด-ปิด สวิสซ์ โดย on จะเปิด และ off คือปิด
+![realay](https://user-images.githubusercontent.com/80879653/112015502-74efee80-8b5e-11eb-92a6-55786eec9435.png)
+![realay1](https://user-images.githubusercontent.com/80879653/112015685-9e107f00-8b5e-11eb-8a26-dcbb43ffe697.png)
+
+2. ต่อไฟให้กับrelayกับ microcontrollor จะควบคุม relay ให้เปิด-ปิด ทันที โดยได้ยินเสียงหน้าสัมผัสของสวิตซ์ไฟซึ่งเป็นโลหะตัวนำไฟฟ้าสามารถให้เปิด-ปิดสวิตซ์ในไฟบ้านได้
+![ต่อไฟเลี้ยง](https://user-images.githubusercontent.com/80879653/112015664-994bcb00-8b5e-11eb-951f-3647ce6aa032.png)
+
 
 ## การบันทึกผลการทดลอง
  out put ที่ต่อเข้ากับ port 0 จะแสดงผลลัพธ์ค่าศุงสุดทุกการนับcount เลขคี่(on) หรือหลอดไฟสีเขียวจะติดไฟ และ ผลลัพธ์ต่ำสุดทุกการนับต่ำสุดทุกการนับcount เลขคู่(off) หรือหลอดไฟสีเขียวจะดับ โดยผลลัพธ์ทั้งสองจะสลับกับทุกๆ1 วินาที สังเกตได้ว่าหลอดไปสีน้ำเงินไม่มีแสดงผลเนื่องจาก โปรแกรมที่เขียนสั่งให้แสดงผลแค่ port 0 เท่านั้นคือ หลอดไฟสีเขียว
