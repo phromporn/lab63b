@@ -25,6 +25,8 @@
 
 4. ทดลองกดปุ่ม รีเซ็ตเพื่อรีเซ็ตการค้นหาไวไฟ
 ![ผลลัพธ์การเจอไวไฟ](https://user-images.githubusercontent.com/80879653/111917547-20436980-8ab3-11eb-8c5d-3590a3624f32.png)
+5. กดปุ่ม upload แลก รีเซ็ท เพื่ออัปโหลดโปรแกรมลง microcontrollor 
+![upload ในmicrpcon](https://user-images.githubusercontent.com/80879653/111969475-dac38280-8b2c-11eb-904c-96086e4c0059.png)
 
 ## การบันทึกผลการทดลอง
 การทดลองค้นหาไวไฟบริเวณรอบๆ microcontrollor ปรากฏว่าบางครั้งพบ 2ตัว บางครั้งพบ 4ตัว ขึ้นกับความแรงของสัญญาณที่ได้รับ จากที่ปราฏกให้เห็นจะมี MASTER BEDROOM 2.4GHz (-89),TEN (-80) , Homiebody(-90) เป็นต้น
