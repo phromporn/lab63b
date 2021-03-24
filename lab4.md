@@ -30,7 +30,7 @@
 4. pio device mornitor
  ![4  pio mornitor](https://user-images.githubusercontent.com/80879653/112177736-c4502080-8c2b-11eb-825a-1c5fee839130.png)
 5. ขึ้นเป็น read 1
-![5 read1](https://user-images.githubusercontent.com/80879653/112177835-db8f0e00-8c2b-11eb-9350-61fc8a69992d.png)
+ ![5 read1](https://user-images.githubusercontent.com/80879653/112177835-db8f0e00-8c2b-11eb-9350-61fc8a69992d.png)
 
 6. สายไฟสีขาว output จิ้มไปที่ สายสีดำที่ input เป็น 0
 7. outout เป็น 0 และมีไฟสว่างขึ้น เมื่อเอาสายไฟสีขาวออก หรือ จิ้มไปที่ input 1 (สายไฟสีแดง) ผลลัพธ์1 ไฟดับ
