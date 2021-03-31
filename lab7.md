@@ -148,6 +148,7 @@ void Line_Notify(String message) {
 }
 
 17. จากนั้นอัพโหลดลง NodeMCU ไปได้เลย
+
 ![image](https://user-images.githubusercontent.com/80879653/113089071-16d3a300-9211-11eb-8d02-bd02ffe12a04.png)
 
 การทดสอบ
